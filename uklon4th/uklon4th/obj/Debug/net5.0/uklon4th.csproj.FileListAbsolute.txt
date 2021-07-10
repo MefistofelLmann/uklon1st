@@ -1,0 +1,16 @@
+C:\Users\Tom\source\repos\uklon4th\uklon4th\bin\Debug\net5.0\uklon4th.exe
+C:\Users\Tom\source\repos\uklon4th\uklon4th\bin\Debug\net5.0\uklon4th.deps.json
+C:\Users\Tom\source\repos\uklon4th\uklon4th\bin\Debug\net5.0\uklon4th.runtimeconfig.json
+C:\Users\Tom\source\repos\uklon4th\uklon4th\bin\Debug\net5.0\uklon4th.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\uklon4th\uklon4th\bin\Debug\net5.0\uklon4th.dll
+C:\Users\Tom\source\repos\uklon4th\uklon4th\bin\Debug\net5.0\ref\uklon4th.dll
+C:\Users\Tom\source\repos\uklon4th\uklon4th\bin\Debug\net5.0\uklon4th.pdb
+C:\Users\Tom\source\repos\uklon4th\uklon4th\obj\Debug\net5.0\uklon4th.csproj.AssemblyReference.cache
+C:\Users\Tom\source\repos\uklon4th\uklon4th\obj\Debug\net5.0\uklon4th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\source\repos\uklon4th\uklon4th\obj\Debug\net5.0\uklon4th.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\uklon4th\uklon4th\obj\Debug\net5.0\uklon4th.AssemblyInfo.cs
+C:\Users\Tom\source\repos\uklon4th\uklon4th\obj\Debug\net5.0\uklon4th.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\uklon4th\uklon4th\obj\Debug\net5.0\uklon4th.dll
+C:\Users\Tom\source\repos\uklon4th\uklon4th\obj\Debug\net5.0\ref\uklon4th.dll
+C:\Users\Tom\source\repos\uklon4th\uklon4th\obj\Debug\net5.0\uklon4th.pdb
+C:\Users\Tom\source\repos\uklon4th\uklon4th\obj\Debug\net5.0\uklon4th.genruntimeconfig.cache
